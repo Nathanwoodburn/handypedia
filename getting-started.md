@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: 1
-date: 2024-02-09T03:25:52.085Z
+date: 2024-02-09T05:33:33.302Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T03:20:39.508Z
@@ -23,9 +23,9 @@ Check out [Buy Handshake coins (HNS) - A walkthrough for purchasing HNS](https:/
 
 There are a few ways to get a name on Handshake:
 
-- Buying directly from Handshake via [auction process](#todo).
+- Buying directly from Handshake via [auction process](/en/auction).
 - Buying from a secondhand marked.
-- Claim a [reserved name](#todo).
+- Claim a [reserved name](/en/reserved_names).
 
 **Namebase**
 Visit [https://www.namebase.io/domains](https://www.namebase.io/domains) and use the search to find names you want to own.
