@@ -2,7 +2,7 @@
 title: Forums
 description: 
 published: 1
-date: 2024-02-09T04:48:08.919Z
+date: 2024-02-09T04:48:37.543Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T04:48:08.919Z
@@ -18,3 +18,6 @@ dateCreated: 2024-02-09T04:48:08.919Z
 
 ## Regular shows and podcasts
 - [Namer Stories](http://namerstories/) - [graham/](http://graham)'s podcast
+
+## See also
+[Chatrooms](/en/chatrooms)
