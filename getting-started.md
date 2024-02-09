@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: 1
-date: 2024-02-09T03:20:39.508Z
+date: 2024-02-09T03:25:52.085Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T03:20:39.508Z
@@ -23,9 +23,9 @@ Check out [Buy Handshake coins (HNS) - A walkthrough for purchasing HNS](https:/
 
 There are a few ways to get a name on Handshake:
 
-- Buying directly from Handshake via auction process.
+- Buying directly from Handshake via [auction process](#todo).
 - Buying from a secondhand marked.
-- Claim a reserved name.
+- Claim a [reserved name](#todo).
 
 **Namebase**
 Visit [https://www.namebase.io/domains](https://www.namebase.io/domains) and use the search to find names you want to own.
@@ -43,7 +43,7 @@ This Handshake name auction hasn't started and placing a bid on this — around 
 This Handshake name auction is underway.
 
 **Revealing**
-This name's auction recently ended and the winner will receive their name once the reveal period ends.
+This name's auction recently ended and the winner will receive their name once the [reveal period](#todo) ends.
 
 **Reserved**
 This name is either one of the existing ~1,500 blacklisted traditional TLDs or is reserved for a top 100,000 Alexa website.
