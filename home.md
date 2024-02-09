@@ -2,7 +2,7 @@
 title: Home
 description: Handypedia the wiki for everything Handshake related 
 published: 1
-date: 2024-02-09T03:11:38.146Z
+date: 2024-02-09T03:14:00.957Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T02:55:52.074Z
@@ -15,7 +15,7 @@ for all your Handshake information needs.
 This wiki is maintained by the Handshake community.
 
 ## Handshake
-![Handshake Logo <](/hnsw.png =64x64)
+![Handshake Logo](/hnsw.png =64x64){: .float-left}
 
 [handshake](/en/handshake) is a decentralized DNS root zone that eliminates the need to trust potential bad actors like ICANN and certificate authorities. Handshake uses peer-to-peer technology to operate with no central authority: domain ownership and transfers are carried out collectively by the network.
 
