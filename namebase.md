@@ -2,8 +2,8 @@
 title: Namebase
 description: 
 published: 1
-date: 2024-02-09T05:32:22.384Z
-tags: 
+date: 2024-02-09T12:32:36.408Z
+tags: wallets, websites
 editor: markdown
 dateCreated: 2024-02-09T05:32:22.384Z
 ---
