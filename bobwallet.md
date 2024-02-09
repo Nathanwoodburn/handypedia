@@ -2,8 +2,8 @@
 title: Bob Wallet
 description: 
 published: 1
-date: 2024-02-09T04:28:57.242Z
-tags: 
+date: 2024-02-09T06:12:01.987Z
+tags: wallets
 editor: markdown
 dateCreated: 2024-02-09T04:25:34.505Z
 ---
