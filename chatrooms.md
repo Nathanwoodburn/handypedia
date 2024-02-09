@@ -2,7 +2,7 @@
 title: Chatrooms
 description: 
 published: 1
-date: 2024-02-09T04:41:22.692Z
+date: 2024-02-09T04:49:01.505Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T04:41:22.692Z
@@ -46,6 +46,9 @@ dateCreated: 2024-02-09T04:41:22.692Z
 | App | Description |
 | --- | --- |
 | [HNSChat](https://hns.chat) | Chat utility built on the Handshake protocol. ([Gitbook Tutorial](https://wolf-5.gitbook.io/hnschat/))
+
+## See also
+[Forums](/en/forums)
 
 
 
