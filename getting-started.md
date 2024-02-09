@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: 1
-date: 2024-02-09T05:33:33.302Z
+date: 2024-02-09T05:34:41.798Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T03:20:39.508Z
@@ -11,7 +11,7 @@ dateCreated: 2024-02-09T03:20:39.508Z
 # Getting started
 
 ## Use a Handshake DNS Resolver
-[Resolving Handshake Domains](#todo)
+[Resolving Handshake Domains](/en/resolve)
 
 ## Buy Handshake coins (HNS)
 In order to acquire Handshake names, you'll need to first purchase Handshake coins (HNS). You can find an updated list of exchanges that accepts Handshake on [CoinGecko](https://www.coingecko.com/en/coins/handshake#markets).
@@ -43,7 +43,7 @@ This Handshake name auction hasn't started and placing a bid on this — around 
 This Handshake name auction is underway.
 
 **Revealing**
-This name's auction recently ended and the winner will receive their name once the [reveal period](#todo) ends.
+This name's auction recently ended and the winner will receive their name once the reveal period ends.
 
 **Reserved**
 This name is either one of the existing ~1,500 blacklisted traditional TLDs or is reserved for a top 100,000 Alexa website.
