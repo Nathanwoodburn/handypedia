@@ -2,7 +2,7 @@
 title: HNS Fund
 description: 
 published: 1
-date: 2024-02-09T05:04:27.648Z
+date: 2024-02-09T05:05:16.714Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T05:04:27.648Z
@@ -79,3 +79,7 @@ January 10th 2021 - The first HNS Fund grant went to falci/ (TK page) on for [0.
 March 11th 2021 - The first TLD auction that donated a part of all sales to HNS Fund was at the first Handy Con(TK Handycon page) after the closing keynote.
 March 16th 2021 - The Handshake Institute(TK page) gave a ~$50,000 donation to the HNS Fund in [Panvala tokens(tk panvala page) and Ethereum](https://handshake.institute/#hnsfund-grant).
 
+
+## See also
+- [HNS Fund Teams](/en/hnsfund_teams)
+- [HNS Fund Grant Rounds](/en/hnsfund_rounds)
