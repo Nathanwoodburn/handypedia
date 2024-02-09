@@ -2,8 +2,8 @@
 title: Sinpapeles
 description: 
 published: 1
-date: 2024-02-09T05:58:46.831Z
-tags: 
+date: 2024-02-09T12:34:06.703Z
+tags: tools, websites
 editor: markdown
 dateCreated: 2024-02-09T05:58:46.831Z
 ---
