@@ -2,7 +2,7 @@
 title: Bob Wallet
 description: 
 published: 1
-date: 2024-02-09T04:25:34.505Z
+date: 2024-02-09T04:26:21.591Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T04:25:34.505Z
@@ -12,7 +12,7 @@ dateCreated: 2024-02-09T04:25:34.505Z
 
 [Bob Wallet](https://bobwallet.io) is Handshake’s premiere non-custodial wallet option built by the [Kyokan team](https://www.kyokan.io/)
 
-
+![bob_wallet.png](/bob_wallet.png){.align-abstopright}
 
 ## Features
 Search and bid on domain names
