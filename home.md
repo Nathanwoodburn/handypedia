@@ -2,7 +2,7 @@
 title: Home
 description: Handypedia the wiki for everything Handshake related 
 published: 1
-date: 2024-02-09T04:14:20.823Z
+date: 2024-02-10T01:59:06.196Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T02:55:52.074Z
@@ -34,3 +34,10 @@ Handshake names are:
 - Private. When used with care Handshake can support strong privacy.
 - Censorship-resistant. Nobody is able to block or seize a name on Handshake.
 - Online and available 24 hours a day, 365 days per year.
+
+
+## Handypedia
+Handypedia is a community ran wiki for Handshake. You can [login with your Handshake domain](/login) to update this wiki.
+Please report any issues with Handypedia to [Nathan.Woodburn/](https://nathan.woodburn.au)
+
+Handypedia collects basic analytics which can be accessed by anyone [here](https://umami.woodburn.au/share/l3nMbcAlMWLIZ1cC/Handypedia)
