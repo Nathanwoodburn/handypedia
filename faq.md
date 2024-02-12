@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: 1
-date: 2024-02-12T05:24:33.731Z
+date: 2024-02-12T05:24:56.315Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T03:37:36.957Z
@@ -62,7 +62,7 @@ See above, there is no central foundation or marketing budget. There are a few d
 - [dWeb Foundation](https://www.decentralizedinter.net/)
 
 ## Can I use my current browser to visit Handshake websites?
-Yes you can. See [Resolving Handshake Domains](/en/resolving)
+Yes you can. See [Resolving Handshake Domains](/en/resolve)
 
 You can run an hsd full node with recursive resolver on a Raspberry Pi on your local network by following [this guide](https://gist.github.com/pinheadmz/a3e5ded7a4f0413e948a6a257c375891).
 
