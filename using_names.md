@@ -2,7 +2,7 @@
 title: Using your name
 description: 
 published: 1
-date: 2024-02-10T01:25:01.099Z
+date: 2024-02-12T05:23:47.016Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T01:25:01.099Z
@@ -28,7 +28,7 @@ Domains can have many uses such as guiding users to websites, using as your iden
 ## Identity
 - [Varo Auth](https://auth.varo.domains/implement) - A php authentication system using Handshake domains as yor identity
 - [HNS Login](https://login.hns.au) - A OAuth2/OpenID wrapper for Varo Auth (This is the authentication used for Handypedia)
-- [Shaker](/shaker) - A discord bot used to verify ownership of a Handshake domain.
+- [Shaker](/en/shaker) - A discord bot used to verify ownership of a Handshake domain.
 
 ## Earn
 - [Sell SLDs via Namebase](https://www.namebase.io/registry) - Offer SLDs via Namebase's Registry
