@@ -2,7 +2,7 @@
 title: HNSHosting
 description: 
 published: 1
-date: 2024-02-09T12:45:11.196Z
+date: 2024-02-15T01:53:25.961Z
 tags: hosting
 editor: markdown
 dateCreated: 2024-02-09T12:45:11.196Z
@@ -35,3 +35,7 @@ The worker servers has weekly encrypted backups to an offsite location to allow 
   Claim via [Nathan.Woodburn/ discord server](https://l.woodburn.au/discord)
 
 - Increased limits on request
+
+## Tutorials
+
+- [Setup for domains hosted in Namebase](https://l.woodburn.au/hnshosting_nb)
