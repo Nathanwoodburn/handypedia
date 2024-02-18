@@ -2,7 +2,7 @@
 title: Assets
 description: Handshake Assets
 published: 1
-date: 2024-02-18T08:34:56.525Z
+date: 2024-02-18T08:35:23.144Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-18T08:19:53.616Z
@@ -29,7 +29,7 @@ Here are free to use Handshake assets.
 ![handshake_wordmark_black.png](/assets/handshake_wordmark_black.png =400x130)
 ![handshake_wordmark_white.png](/assets/handshake_wordmark_white.png =400x130)
 
-[Zip](/files/handshake_wordmark.zip)
+[Wordmarks Zip](/files/handshake_wordmark.zip)
 
 
 ## Website Favicons
