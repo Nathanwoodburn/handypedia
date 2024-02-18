@@ -2,7 +2,7 @@
 title: Assets
 description: Handshake Assets
 published: 1
-date: 2024-02-18T08:34:18.274Z
+date: 2024-02-18T08:34:56.525Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-18T08:19:53.616Z
@@ -21,7 +21,7 @@ Here are free to use Handshake assets.
 
 ![handshake_monogram_outlined_black.png](/assets/handshake_monogram_outlined_black.png =64x64) ![handshake_monogram_outlined_white.png](/assets/handshake_monogram_outlined_white.png =64x64)
 
-[Monogram Zip](/files/handshake_monogram_outlined.zip)
+[Outlines Zip](/files/handshake_monogram_outlined.zip)
 
 ## Wordmarks
 
