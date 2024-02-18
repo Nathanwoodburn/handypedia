@@ -2,14 +2,14 @@
 title: HNSAU
 description: 
 published: 1
-date: 2024-02-18T12:31:28.254Z
+date: 2024-02-18T12:33:11.179Z
 tags: communities
 editor: markdown
 dateCreated: 2024-02-10T08:52:19.796Z
 ---
 
 # HNSAU
-
+![hnsau_logo.png](/hnsau_logo.png =256x256){.align-right}
 The home of Australians using the decentralized web, built on Handshake.
 HNSAU aka Handshake Australia was started Jan 2022. We are helping spread the word about Handshake Blockchain DNS and Domains in Australia. We are also aiming to support Australian businesses building their websites on Handshake.
 
