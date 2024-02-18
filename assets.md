@@ -2,7 +2,7 @@
 title: Assets
 description: Handshake Assets
 published: 1
-date: 2024-02-18T08:35:23.144Z
+date: 2024-02-18T08:37:19.458Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-18T08:19:53.616Z
@@ -43,3 +43,6 @@ These are zip folders of the monogram resized to standard sized.
 
 Alternative download link:
 https://cloud.woodburn.au/s/hns_assets
+
+## I WANT EVERYTHING
+Here's a download of all the Handshake assets: [assets.zip](/files/assets.zip)
