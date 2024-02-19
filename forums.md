@@ -2,7 +2,7 @@
 title: Forums
 description: 
 published: 1
-date: 2024-02-10T01:50:20.570Z
+date: 2024-02-19T05:59:48.531Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T04:48:08.919Z
@@ -18,7 +18,7 @@ dateCreated: 2024-02-09T04:48:08.919Z
 
 ## Regular shows and podcasts
 - [Skyinclude/](https://skyinclude.com/blog/) - Michael Michelini's podcast and blog
-- [Namer Stories](http://namerstories/) - [graham/](http://graham)'s podcast
+- [Namer Stories](https://www.listennotes.com/en/podcasts/namer-stories-graham-j-wallace-r-WUtpOa2QK/) - [graham/](http://graham)'s podcast
 
 ## See also
 [Chatrooms](/en/chatrooms)
