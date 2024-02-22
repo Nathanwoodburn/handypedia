@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: 1
-date: 2024-02-12T05:24:56.315Z
+date: 2024-02-22T12:12:17.922Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T03:37:36.957Z
@@ -46,7 +46,7 @@ Currently there are two fully featured wallets, [Bob Wallet](https://bobwallet.i
 
 ## What's with the @hns twitter?
 
-The @HNS Twitter handle is a community-run account and periodically tweets/RTs relevant news, resources, and mentions of Handshake. The account was originally acquired by the project founders and has had its ups and downs of activity. There was a [long community discussion](https://github.com/handshake-org/handshake-web/issues/14) about how to use it going forward and it was decided that the best action was to effectively terminate the account and let the community speak for itself on twitter. Follow #HNS or $HNS to track actual community activity.
+The @HNS Twitter handle is a community-run account and periodically tweets/RTs relevant news, resources, and mentions of Handshake. The account was originally acquired by the project founders and has had its ups and downs of activity. There was a [long community discussion](https://github.com/handshake-org/handshake-web/issues/14) about how to use it going forward and it was decided that the best action was to effectively terminate the account and let the community speak for itself on twitter. Follow #HNS or $HNS to track actual community activity.  @HNS has recently been activate in  
 
 ## Is there a roadmap?
 No. There is no central HNS foundation, no marketing budget and no central development effort. Handshake is being built by a diverse group of contributors with their own personal road maps and funding.
@@ -73,7 +73,7 @@ Note that while a resolver is the only component needed to browse HNS domains, s
 [Beacon Web Browser](https://impervious.com/beacon) is an iOS app (Android, Desktop coming soon) that verifies DANE and can browse to Handshake websites natively and securely.
 
 ## What's this about reserved names? Can I get one?
-A snapshot of Akexa's Top 100,000 sites from 2019 is included and these websites can claim their respective TLDs on Handshake (ex: namecheap.com can claim .namecheap). More information on proving ownership and claiming is available on [hsd-dev.org](https://hsd-dev.org/guides/claims.html).
+A snapshot of Alexa's Top 100,000 sites from 2019 is included and these websites can claim their respective TLDs on Handshake (ex: namecheap.com can claim .namecheap). More information on proving ownership and claiming is available on [hsd-dev.org](https://hsd-dev.org/guides/claims.html).
 
 ICANN TLDs (.com, .org, etc.) were also included in the snapshot and can be claimed by following the same process.
 
