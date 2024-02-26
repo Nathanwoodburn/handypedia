@@ -2,7 +2,7 @@
 title: HNSAU
 description: 
 published: 1
-date: 2024-02-18T12:33:11.179Z
+date: 2024-02-26T05:43:21.134Z
 tags: communities
 editor: markdown
 dateCreated: 2024-02-10T08:52:19.796Z
@@ -18,6 +18,7 @@ HNSAU aka Handshake Australia was started Jan 2022. We are helping spread the wo
 - DNS hosting at https://domains.hns.au
 - Selling SLDs on Australian TLDs at https://domains.hns.au
 - Selling HNS pins at https://hns.au/pins
+- Links page hosting service https://links.hns.au
 
 ## Links
 
