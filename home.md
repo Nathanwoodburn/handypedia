@@ -2,7 +2,7 @@
 title: Home
 description: Handypedia the wiki for everything Handshake related 
 published: 1
-date: 2024-02-26T05:44:41.517Z
+date: 2024-02-26T05:45:20.892Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T02:55:52.074Z
@@ -38,6 +38,6 @@ Handshake names are:
 
 ## Handypedia
 Handypedia is a community ran wiki for Handshake. You can [login with your Handshake domain](/login) to update this wiki.
-Please report any issues with Handypedia to [Nathan.Woodburn/](/directors/nathan.woodburn)
+Please report any issues with Handypedia to [Nathan.Woodburn/](/directors/nathanwoodburn)
 
 Handypedia collects basic analytics which can be accessed by anyone [here](https://umami.woodburn.au/share/l3nMbcAlMWLIZ1cC/Handypedia)
