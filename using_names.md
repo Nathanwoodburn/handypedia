@@ -2,7 +2,7 @@
 title: Using your name
 description: 
 published: 1
-date: 2024-02-12T05:23:47.016Z
+date: 2024-02-26T05:27:41.663Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T01:25:01.099Z
@@ -17,6 +17,8 @@ Domains can have many uses such as guiding users to websites, using as your iden
 ## Websites
 - [HNSHosting](/hnshosting) - Free wordpress hosting service for Handshake domains
 - [Excerpt](/excerpt) - Free blogging website hosting for Handshake domains
+- [HNS Links](https://links.hns.au) - A free links page hosting service powered by [HNSAU](/hnsau)
+- [Site Manager](https://l.woodburn.au/site-mgr) - A web app to allow easy management of your Handshake websites
 - [Self Hosted](https://l.woodburn.au/website) - A guide to self host your website on a Linode server
 
 
