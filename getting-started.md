@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: 1
-date: 2024-02-12T05:24:17.824Z
+date: 2024-06-19T11:07:52.432Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T03:20:39.508Z
@@ -51,5 +51,5 @@ This name is either one of the existing ~1,500 blacklisted traditional TLDs or i
 
 ## Use your Handshake name
 
-Check out this [Namebase article](https://learn.namebase.io/starting-from-zero/how-to-use-handshake-names) on some use cases for more your domain!
+Check out the [using_names](/using_names) page to see what you can use your Handshake domain for.
 
