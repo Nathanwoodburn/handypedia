@@ -2,7 +2,7 @@
 title: Resolving Handshake Domains
 description: 
 published: 1
-date: 2024-06-19T11:42:54.291Z
+date: 2024-06-19T11:45:11.714Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T05:50:52.713Z
@@ -116,7 +116,7 @@ Users are presented with an illusion that they can "see" websites hosted on HNS 
 Can you trust the authenticity of the content you see in the browser? Can you enter private, personal or sensitive data into a website? Most browsers offer a "lock" icon in the URL bar when an HTTPS connection is established, meaning the answer to both these questions is "yes". Eavesdropping on your connection is impossible and altering data to and from both you and the web server is impossible. It's important to remember that HTTPS requires proper configuration by the website and domain name owners as well. Just because you have set up the proper tools on your computer does not mean every website is secure.
 
 - **HIGH**: Secure HTTPS is available. Domain name has been cryptographically verified and web server identity has been cryptographically identified.
-- **LOW**: Secure HTTPS is not available. The chain of cryptographic verification is broken. Do not trust this content. Do not enter personal data into this website.
+- **LOW**: Secure HTTPS is not available. The chain of cryptographic verification is broken. Do not trust this content. Do not enter personal data into this website. 
 
 ### Privacy
 Do any other entities (besides your browser and the web server) know what websites you are visiting?
