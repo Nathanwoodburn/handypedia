@@ -2,7 +2,7 @@
 title: Resolving Handshake Domains
 description: 
 published: 1
-date: 2024-02-09T05:50:52.713Z
+date: 2024-06-19T11:42:54.291Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T05:50:52.713Z
@@ -21,8 +21,8 @@ There are many methods to visit HNS websites on your computer and there are trad
 
 ### hsd full node + letsdane proxy
 
-[hsd](https://github.com/handshake-org/hsd)
-[letsdane](https://github.com/buffrr/letsdane)
+[HSD](https://github.com/handshake-org/hsd)
+[LetsDANE](https://github.com/buffrr/letsdane)
 
 >  Security: HIGH
 >  Privacy: HIGH
@@ -31,14 +31,14 @@ There are many methods to visit HNS websites on your computer and there are trad
 >  Complexity: HIGH
 {.is-info}
 
-hsd is the most bullet-proof piece of Handshake software available. It verifies every single transaction and every single block against every single protocol rule we have. It has the best security practices and the best privacy. It does complete recursive domain name resolution from the HNS root zone all the way down. letsdane is the best tool available for verifying DANE and establishing HTTPS connections to websites hosted on Handshake domains. It checks all DNSSEC records served by hsd and checks the certificate offered by the web server. Every cryptographic signature is verified. If a user installs both of these on the computer they are browsing from, there is very little surface for attack: your browsing history remains private and all data transmitted and received is private and secure.
+HSD is the most bullet-proof piece of Handshake software available. It verifies every single transaction and every single block against every single protocol rule we have. It has the best security practices and the best privacy. It does complete recursive domain name resolution from the HNS root zone all the way down. letsdane is the best tool available for verifying DANE and establishing HTTPS connections to websites hosted on Handshake domains. It checks all DNSSEC records served by hsd and checks the certificate offered by the web server. Every cryptographic signature is verified. If a user installs both of these on the computer they are browsing from, there is very little surface for attack: your browsing history remains private and all data transmitted and received is private and secure.
 
 
 ### hsd SPV node / hnsd light client + letsdane proxy (Fingertip)
 [Fingertip](https://impervious.com/fingertip)
-[hsd](https://github.com/handshake-org/hsd)
-[hnsd](https://github.com/handshake-org/hnsd)
-[letsdane](https://github.com/buffrr/letsdane)
+[HSD](https://github.com/handshake-org/hsd)
+[HNSD](https://github.com/handshake-org/hnsd)
+[LetsDANE](https://github.com/buffrr/letsdane)
 
 >  Security: HIGH
 >  Privacy: MEDIUM
@@ -64,8 +64,8 @@ There are available guides for [connecting Fingertip to Firefox](https://gist.gi
 Beacon is a web browser that works a lot like Fingertip but is self-contained. It is convenient since it requires no setup, but inconvenient since it requires a user to abandon their current default browser. The technical mechanism is similar to Fingertip but Beacon does not do recursive name resolution, meaning it relies on external DNS-over-HTTPS servers. It leaks domain names to those servers, but still verifies all data using the blockchain data it keeps internally from hnsd. If Chrome / Safari / Brave / Opera ever adopt Handshake in a meaningful way, this method will probably be the best we can hope for.
 
 ### Internal HNS resolver: hsd or hnsd without letsdane proxy
-[hsd](https://github.com/handshake-org/hsd)
-[hnsd](https://github.com/handshake-org/hnsd)
+[HSD](https://github.com/handshake-org/hsd)
+[HNSD](https://github.com/handshake-org/hnsd)
 
 >  Security: LOW
 >  Privacy: HIGH (hsd) / MEDIUM (hnsd)
@@ -78,11 +78,13 @@ Beacon is a web browser that works a lot like Fingertip but is self-contained. I
 A user can install their own HNS resolver but neglect to install the DANE verifying software. This user will be able to browse to websites hosted on HNS domain names BUT NEVER SECURELY. This user can not establish an HTTPS connection but can still "see" HNS websites, assuming the web server allows HTTP connections without requiring or enforcing security. A user can even run hsd on a server and connect to it remotely. This is technically an external resolver and will require additional security (SIG0) to ensure that the received data is authentic.
 
 
-### External HNS resolver like hdns.io, NextDNS, resolvr, HandshakeNames
+### External HNS resolver like HNSDoh, HDNS, NextDNS
+[HNSDoH](https://welcome.hnsdoh.com)
 [hdns.io](https://hdns.io)
 [NextDNS](https://nextdns.io/)
 [resolvr](https://resolvr.info/)
 [HandshakeNames](https://handshakenames.com/dns-resolver)
+[Bob Wallet Chrome Extension](https://bobwallet.io/)
 
 >  Security: LOW
 >  Privacy: LOW
@@ -91,19 +93,22 @@ A user can install their own HNS resolver but neglect to install the DANE verify
 >  Complexity: LOW
 {.is-info}
 
-[Bob Wallet Chrome Extension](https://bobwallet.io/) is another example of this method. The most important thing to know about this method is that SOMEONE ELSE IS VERIFYING THE BLOCKCHAIN, NOT YOU. Since the blockchain is the root of all "trust" in this system, you are outsourcing absolutely everything including security and privacy. It may be possible to run a letsdane proxy in addition to these resolvers and establish a secure HTTPS connection between your browser and the web server. However, since the blockchain data is being served to you from some untrusted source we can not classify this method as truly secure. This is currently how Brave actually resolves "decentralized domain names" such as Unstoppable Domains and Ethereum Name Service.
+Access Handshake domains by getting DNS records from a public resolver. The most important thing to know about this method is that SOMEONE ELSE IS VERIFYING THE BLOCKCHAIN, NOT YOU. Since the blockchain is the root of all "trust" in this system, you are outsourcing absolutely everything including security and privacy. It may be possible to run a letsdane proxy in addition to these resolvers and establish a secure HTTPS connection between your browser and the web server. However, since the blockchain data is being served to you from some untrusted source we can not classify this method as truly secure. This is currently how Brave actually resolves "decentralized domain names" such as Unstoppable Domains and Ethereum Name Service.
 
 ### External proxy like hns.to
 [hns.to](https://hns.to)
 
->  Security: LOW
+>  Security: EXTREMELY LOW
 >  Privacy: LOW
 >  Decentralization: LOW
 >  Convenience: EXTREMELY HIGH
 >  Complexity: LOW
 {.is-info}
 
-Users are presented with an illusion that they can "see" websites hosted on HNS domains but really they are looking at a website hosted on legacy ICANN domain name. If there is any HTTPS security offered at all it is anchored in legacy certificate authority. The server knows the entire URL you are looking up and knows all data you send and receive to the web server. The proxy CAN ALTER DATA you send or receive to the web server, including links. This is currently how Puma browser resolves Handshake domains.
+Users are presented with an illusion that they can "see" websites hosted on HNS domains but really they are looking at a website hosted on legacy ICANN domain name. If there is any HTTPS security offered at all it is anchored in legacy certificate authority. The server knows the entire URL you are looking up and knows all data you send and receive to the web server. The proxy CAN ALTER DATA you send or receive to the web server, including links. This is currently how Puma browser resolves Handshake domains. This is marked as extremely low security as the proxy can view and edit any traffic.
+
+> NEVER USE A PROXY TO ENTER PASSWORDS OR SENSITIVE INFO.
+{ .is-warning } 
 
 
 ## Features and Rankings
