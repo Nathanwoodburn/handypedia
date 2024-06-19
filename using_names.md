@@ -2,7 +2,7 @@
 title: Using your name
 description: 
 published: 1
-date: 2024-02-26T05:27:41.663Z
+date: 2024-06-19T11:11:21.358Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T01:25:01.099Z
@@ -23,13 +23,14 @@ Domains can have many uses such as guiding users to websites, using as your iden
 
 
 ## Chats/Forums
-- [HNSChat](https://hns.chat) - A chat platform using Varo Auth for authentication with Handshake domains
+- [HNS Mastodon](https://mastodon.hns.au) - A Mastodon instance that allows people to login using their HNS domain.
+
 
 
 
 ## Identity
 - [Varo Auth](https://auth.varo.domains/implement) - A php authentication system using Handshake domains as yor identity
-- [HNS Login](https://login.hns.au) - A OAuth2/OpenID wrapper for Varo Auth (This is the authentication used for Handypedia)
+- [HNS Login](https://login.hns.au) - A OAuth2/OpenID Handshake login system. (This is the authentication used for Handypedia)
 - [Shaker](/en/shaker) - A discord bot used to verify ownership of a Handshake domain.
 
 ## Earn
