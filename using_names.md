@@ -2,7 +2,7 @@
 title: Using your name
 description: 
 published: 1
-date: 2024-06-19T11:13:30.075Z
+date: 2024-06-20T09:26:43.925Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T01:25:01.099Z
@@ -34,7 +34,8 @@ Domains can have many uses such as guiding users to websites, using as your iden
 - [Shaker](/en/shaker) - A discord bot used to verify ownership of a Handshake domain.
 
 ## Earn
-- [Sell SLDs via Namebase](https://www.namebase.io/registry) - Offer SLDs via Namebase's Registry
+- [Sell SLDs via Namebase](https://www.namebase.io/registry) - Offer SLDs via popular registrars using Namebase's Registry
+- [Sell SLDs via HNS.ID](https://hns.id/stake) - Offer SLDs minted on the Optimism L2 chain using HNS.ID
 - [Sell SLDs via a Varo instance](/dns_hosting#varo)
 
 
