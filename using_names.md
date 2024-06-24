@@ -2,7 +2,7 @@
 title: Using your name
 description: 
 published: 1
-date: 2024-06-20T09:26:43.925Z
+date: 2024-06-24T04:15:26.843Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T01:25:01.099Z
@@ -42,3 +42,4 @@ Domains can have many uses such as guiding users to websites, using as your iden
 
 ## Other uses
 - [Link shortener](https://linkr) - A self hosted link shortener (Tutorial coming soon from Nathan.Woodburn/)
+- [HNS Cloud](https://cloud.hns.au) - A cloud service that uses HNS Login for user authentication
