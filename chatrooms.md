@@ -2,7 +2,7 @@
 title: Chatrooms
 description: 
 published: 1
-date: 2024-02-09T04:49:01.505Z
+date: 2024-08-05T04:27:29.161Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T04:41:22.692Z
@@ -42,10 +42,6 @@ dateCreated: 2024-02-09T04:41:22.692Z
 | [LiberaChat](https://web.libera.chat/#handshake)|#handshake|General Handshake-related discussion and support.|
 |[Matrix↔IRC Bridge](https://matrix.to/#/#handshake:libera.chat)|#handshake:libera.chat|Matrix bridge to LiberChat #handshake channel|
 
-## Handshake Chat Tools
-| App | Description |
-| --- | --- |
-| [HNSChat](https://hns.chat) | Chat utility built on the Handshake protocol. ([Gitbook Tutorial](https://wolf-5.gitbook.io/hnschat/))
 
 ## See also
 [Forums](/en/forums)
