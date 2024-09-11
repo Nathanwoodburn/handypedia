@@ -2,7 +2,7 @@
 title: Resolving Handshake Domains
 description: 
 published: 1
-date: 2024-06-19T11:45:11.714Z
+date: 2024-09-11T05:16:11.845Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T05:50:52.713Z
@@ -78,10 +78,10 @@ Beacon is a web browser that works a lot like Fingertip but is self-contained. I
 A user can install their own HNS resolver but neglect to install the DANE verifying software. This user will be able to browse to websites hosted on HNS domain names BUT NEVER SECURELY. This user can not establish an HTTPS connection but can still "see" HNS websites, assuming the web server allows HTTP connections without requiring or enforcing security. A user can even run hsd on a server and connect to it remotely. This is technically an external resolver and will require additional security (SIG0) to ensure that the received data is authentic.
 
 
-### External HNS resolver like HNSDoh, HDNS, NextDNS
-[HNSDoH](https://welcome.hnsdoh.com)
+### External HNS resolver
+[HNSDoH](https://welcome.hnsdoh.com) <!--
 [hdns.io](https://hdns.io)
-[NextDNS](https://nextdns.io/)
+[NextDNS](https://nextdns.io/)-->
 [resolvr](https://resolvr.info/)
 [HandshakeNames](https://handshakenames.com/dns-resolver)
 [Bob Wallet Chrome Extension](https://bobwallet.io/)
