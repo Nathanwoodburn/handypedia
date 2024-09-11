@@ -2,7 +2,7 @@
 title: Communities
 description: 
 published: 1
-date: 2024-09-11T05:24:33.451Z
+date: 2024-09-11T05:38:34.337Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T01:46:22.670Z
@@ -15,16 +15,17 @@ There are Handshake communities around the world. Find one that is near you.
 
 ## North America
 - [HNS Canada](https://hnscanada.ca/) Canadian community
-- Texas community by Nole.tx/
-- Los Angeles community by Paul Singh and MigsMachine
-- San Francisco community by Steven Mckie
+- [Texas community](https://chapters.handshakedirectory.com/usa/texas/) by [Nole.tx/](https://twitter.com/nole__tx)
+- [Los Angeles community](https://chapters.handshakedirectory.com/usa/la/) by [Paul Singh](
+https://twitter.com/singhdotin) and [MigsMachine](https://twitter.com/MigsMachine)
+- [San Francisco community](https://chapters.handshakedirectory.com/usa/sf/) by [Steven Mckie](https://twitter.com/Steven_McKie)
 
 
 ## Asia
-- Taiwan community by Pei Hsun Kao
-- Thailand community by Michael Michelini
-- Vietnam community by Arrene Ng
-- India community by Sajan Nair
+- [Taiwan community](https://chapters.handshakedirectory.com/taiwan/) by [Pei Hsun Kao](https://twitter.com/PeiHsunKao)
+- [Thailand community](https://chapters.handshakedirectory.com/thailand/) by [Michael Michelini](https://twitter.com/michelini)
+- [Vietnam community](https://chapters.handshakedirectory.com/vietnam/) by [Arrene Ng](https://twitter.com/auguryventures)
+- [India community](https://chapters.handshakedirectory.com/india/) by [Sajan Nair](https://twitter.com/AgaaminT)
 
 
 ## Oceania
