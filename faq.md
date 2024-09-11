@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: 1
-date: 2024-09-11T04:58:27.861Z
+date: 2024-09-11T05:14:02.724Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T03:37:36.957Z
