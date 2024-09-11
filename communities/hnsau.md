@@ -1,8 +1,8 @@
 ---
 title: HNSAU
-description: 
+description: Handshake Australia
 published: 1
-date: 2024-02-26T05:43:21.134Z
+date: 2024-09-11T05:25:14.552Z
 tags: communities
 editor: markdown
 dateCreated: 2024-02-10T08:52:19.796Z
