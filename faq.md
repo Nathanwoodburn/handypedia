@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: 1
-date: 2024-02-22T12:12:17.922Z
+date: 2024-09-11T04:58:27.861Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T03:37:36.957Z
@@ -32,6 +32,8 @@ You can buy Handshake coins on Namebase with Bitcoin, or USD if you verify your 
 
 [BIT(HNS/USDT)](https://www.bitrue.com/trade/hns_usdt)
 
+[🤝 (HNS/BTC) (HNS/ADA) (HNS/DOGE) (HNS/LTC)](/🤝)
+
 
 ## How do I stake?
 Handshake is not an ERC20 token on Ethereum and is not generally considered a "DeFi" asset.
@@ -42,7 +44,7 @@ You also have the choice of staking your names in a decentralized manner, with t
 
 ## What wallet is there?
 
-Currently there are two fully featured wallets, [Bob Wallet](https://bobwallet.io) and [Namebase](https://www.namebase.io). Bob Wallet is non-custodial software which can be used trustlessly, whereas Namebase is a custodial online wallet. You can not buy coins from Bob Wallet.
+Currently there are three fully featured wallets; [Bob Wallet](/bobwallet), [Namebase](/namebase) and [ShakeStation](/shakestation). Bob Wallet is non-custodial software which can be used trustlessly, whereas Namebase and ShakeStation are custodial online wallets. You can not buy HNS from Bob Wallet or ShakeStation.
 
 ## What's with the @hns twitter?
 
@@ -62,7 +64,7 @@ See above, there is no central foundation or marketing budget. There are a few d
 - [dWeb Foundation](https://www.decentralizedinter.net/)
 
 ## Can I use my current browser to visit Handshake websites?
-Yes you can. See [Resolving Handshake Domains](/en/resolve)
+Yes you can. See [Resolving Handshake Domains](/resolve)
 
 You can run an hsd full node with recursive resolver on a Raspberry Pi on your local network by following [this guide](https://gist.github.com/pinheadmz/a3e5ded7a4f0413e948a6a257c375891).
 
