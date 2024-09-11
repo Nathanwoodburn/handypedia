@@ -2,7 +2,7 @@
 title: Communities
 description: 
 published: 1
-date: 2024-07-20T03:12:12.113Z
+date: 2024-09-11T05:24:33.451Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T01:46:22.670Z
@@ -29,4 +29,4 @@ There are Handshake communities around the world. Find one that is near you.
 
 ## Oceania
 
-- [HNS AU](/hnsau) Australia community
+- [HNS AU](/communities/hnsau) Australia community
