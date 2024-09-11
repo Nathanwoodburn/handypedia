@@ -2,7 +2,7 @@
 title: Shaker
 description: 
 published: 1
-date: 2024-02-10T01:30:07.120Z
+date: 2024-09-11T05:20:46.199Z
 tags: tools
 editor: markdown
 dateCreated: 2024-02-10T01:30:07.120Z
@@ -11,6 +11,7 @@ dateCreated: 2024-02-10T01:30:07.120Z
 # Shaker
 
 Shaker is a discord bot used to verify ownership of a Handshake domain.
+This bot is managed by [Nathan.Woodburn/](/directors/nathanwoodburn) so please contact him if the bot has any issues.
 
 ## How to use
 1. Run `/verify` and enter your domain
