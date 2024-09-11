@@ -2,7 +2,7 @@
 title: Reserved names
 description: 
 published: 1
-date: 2024-02-09T05:42:01.227Z
+date: 2024-09-11T10:15:26.234Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T05:42:01.227Z
@@ -11,6 +11,10 @@ dateCreated: 2024-02-09T05:42:01.227Z
 # Reserved name
 
 Existing TLDs and over 100,000 Alexa websites are reserved on the Handshake blockchain. Upon removing collisions, generic, and exclusions (e.g. 1 or 2 character names), approximately 80,000 names remain. Using the root key and DNSSEC, domain owners can cryptographically prove ownership to the Handshake blockchain to claim names. 100,000 was chosen as a number which the ownership is clear and has already gone through policy and process.
+
+## End of the claims
+
+Reserved domains were able to be claimed for 4 years after the launch of Handshake. This deadline has passed. Rather than let all the domains be registered by anyone after this deadline passed (how the original code was written), Handshake did a soft fork to stop the top 10,000 domains from being registered. If any of these 10,000 domains want to be claimed, Handshake will need to do a hard fork to re-enable claims.
 
 ## Existing TLDs
 All existing [ICANN TLDs](https://github.com/handshake-org/hs-names/blob/master/names/tld.json) ([ccTLDs](https://github.com/handshake-org/hs-names/blob/master/names/cctld.json), [gTLDS](https://github.com/handshake-org/hs-names/blob/master/names/gtld.json), [rTLD](https://github.com/handshake-org/hs-names/blob/master/names/rtld.json)) are reserved and can't be opened at auction.
